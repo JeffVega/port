@@ -89,7 +89,7 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height:400px;
+  min-height:300px;
   background:url('../img/computer.jpg') no-repeat 0 -400px;
   background-size: cover;
   opacity: 0.9;
