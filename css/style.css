@@ -197,19 +197,19 @@ footer{
 }
 .live-button{
   background: #a3de83;
-  transition: 0.3s;
+  /* transition: 0.3s; */
 }
-.live-button:hover{
+/* .live-button:hover{
   background: #239d60;
-}
+} */
 .github-button{
   background: #212125;
-  transition: 0.3s;
+  /* transition: 0.3s; */
 }
-.github-button:hover{
+/* .github-button:hover{
   background: #f7f39a;
   color:black;
-}
+} */
 
  /* Photo */
 
